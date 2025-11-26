@@ -1,5 +1,5 @@
 # **AutomaticWaterDispenser**  
-Arduino Code for a automatic water dispenser with servo and Arduino Uno.  
+Arduino Code for an automatic water dispenser with servo and Arduino Uno.  
   
 Semi-Simulation Game Download Here: https://john-luke-m-codis.itch.io/homeiot  
   
