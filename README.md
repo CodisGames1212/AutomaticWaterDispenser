@@ -3,7 +3,8 @@ Arduino Code for a automatic water dispenser with servo and Arduino Uno.
 
 Semi-Simulation Game Download Here: https://john-luke-m-codis.itch.io/homeiot  
 
-[<img src="[https://img.youtube.com/vi/VIDEO_ID](https://youtu.be/0b32Hh_Nm0s?si=NZviq3PMkBaDUptW)/default.jpg" width="120">]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/0b32Hh_Nm0s?si=NZviq3PMkBaDUptW))
+[<img src="https://img.youtube.com/vi/NZviq3PMkBaDUptW/default.jpg" width="120">](https://www.youtube.com/watch?v=NZviq3PMkBaDUptW)
+
 
 
 
