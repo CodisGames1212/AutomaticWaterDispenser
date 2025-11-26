@@ -10,7 +10,6 @@ Video Preview: https://youtu.be/0b32Hh_Nm0s?si=pSeyrgbVFGJSYjN8
 **Paypal:** http://paypal.me/CodisGames  
 **GCash:** __09203563181__  
 
-# CircuitDiagram  
 ![CircuitDiagram](CircuitDiagram.jpg)
 
 
